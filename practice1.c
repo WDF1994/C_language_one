@@ -4,7 +4,6 @@
 #include<string.h>
 #include<math.h>
 #include <stdio.h>
-#include <math.h>
 //求Sn = a + aa + aaa + aaaa + aaaaa的前5项之和，其中a是一个数字，
 //例如：2 + 22 + 222 + 2222 + 22222
 int main() {
